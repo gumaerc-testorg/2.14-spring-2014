@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: f4e01633-f870-79b9-0541-e9c6d13a2e47
 ---
@@ -51,7 +53,7 @@ Students in the graduate version of the course (2.140) are required to attend an
 Quizzes
 -------
 
-Two closed-book quizzes will be given. There are no laboratory sessions during the weeks of quizzes. The quizzes are closed-book. One sheet of notes will be permitted in Quiz 1. Two sheets of notes will be permitted in Quiz 2. Calculators may be used, but no more advanced computational tools are allowed, i.e., no MATLAB®, LabVIEW, Mathematica, etc. Any requested plots will need to be sketched by hand.
+Two closed-book quizzes will be given. There are no laboratory sessions during the weeks of quizzes. The quizzes are closed-book. One sheet of notes will be permitted in Quiz 1. Two sheets of notes will be permitted in Quiz 2. Calculators may be used, but no more advanced computational tools are allowed, i.e., no MATLAB{{< sup "®" >}}, LabVIEW, Mathematica, etc. Any requested plots will need to be sketched by hand.
 
 Design Project
 --------------

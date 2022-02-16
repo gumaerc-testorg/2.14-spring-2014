@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Calendar
 uid: 2e149717-80f4-4b23-e840-49be109836e0
 ---
@@ -45,7 +47,7 @@ Introduction; Overview of Control Systems; Magnetic Levitation Case Study
 Lec 2
 {{< tdclose >}}
 {{< tdopen >}}
-On / Off Control; 1st and 2nd Order Time Response; Multidomain Modeling
+On / Off Control; 1{{< sup "st" >}} and 2{{< sup "nd" >}} Order Time Response; Multidomain Modeling
 {{< tdclose >}}
 {{< tdopen >}}
  

@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Design Project
 uid: 98593a12-d5fa-7ba8-30c7-0831dc32f0f0
 ---
