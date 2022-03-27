@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: d0e123bd-beb5-6b2c-de45-98c0aaf1f6d9
 resourcetype: Document
 title: 'Laboratory Assignment 6: Servomotor Velocity Control'
 uid: b933910c-9c92-7116-2ffa-40dd6f652330

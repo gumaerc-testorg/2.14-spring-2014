@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: d0e123bd-beb5-6b2c-de45-98c0aaf1f6d9
 resourcetype: Document
 title: 'Laboratory Assignment 7: Servomotor Position Control'
 uid: cb5d152a-e6aa-da0a-b812-ea1788069eee

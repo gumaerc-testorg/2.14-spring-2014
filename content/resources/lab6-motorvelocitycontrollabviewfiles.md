@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: d0e123bd-beb5-6b2c-de45-98c0aaf1f6d9
 resourcetype: Other
 title: Lab6-MotorVelocityControlLabviewFiles.zip
 uid: 0772e80f-759d-1bee-375f-1413ab8445d3

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: d0e123bd-beb5-6b2c-de45-98c0aaf1f6d9
 resourcetype: Document
 title: Instruction for Dynamic Signal Analyzer (DSA)
 uid: 78c396d8-6cc5-1240-b623-1d81474fa7d3

@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Design Project
 parent_type: CourseSection
+parent_uid: 98593a12-d5fa-7ba8-30c7-0831dc32f0f0
 resourcetype: Document
 title: 2.14/2.140 Final Design Problem
 uid: d0434620-6a17-1b74-0f4f-4274f92002b4

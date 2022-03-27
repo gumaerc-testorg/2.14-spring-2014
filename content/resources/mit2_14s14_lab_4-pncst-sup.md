@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: d0e123bd-beb5-6b2c-de45-98c0aaf1f6d9
 resourcetype: Document
 title: Lab 3 Circuit Analysis
 uid: 1d064daa-f55c-9b0a-3177-17cbd64f74ff

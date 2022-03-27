@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Design Project
 parent_type: CourseSection
+parent_uid: 98593a12-d5fa-7ba8-30c7-0831dc32f0f0
 resourcetype: Other
 title: GpPlantFrequencyData.zip
 uid: 70450178-b070-b358-17af-c50c5ba2f4ae

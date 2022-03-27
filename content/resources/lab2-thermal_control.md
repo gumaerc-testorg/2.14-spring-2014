@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: d0e123bd-beb5-6b2c-de45-98c0aaf1f6d9
 resourcetype: Other
 title: Lab2-Thermal_Control.zip
 uid: b0a2b18c-8b9d-2305-dc7f-e2a3cb7af25d

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: d0e123bd-beb5-6b2c-de45-98c0aaf1f6d9
 resourcetype: Document
 title: 2.14/2.140 Lab 2 Thermal Expansion
 uid: 30a17ce0-aae8-cec8-6c78-646604865cd0
