@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This syllabus section provides the course description and information
+  on meeting times, textbooks, laboratory sessions, assignments, random lecture assignments,
+  recitations, quizzes, the design project, and grading.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -25,20 +28,20 @@ Textbooks
 
 Franklin, Gene F., J. David Powell, and Abbas Emami-Naeini. _Feedback Control of Dynamic Systems_. 6th ed. Prentice Hall, 2009. ISBN: 9780136019695.
 
-Roberge, James K. [_Operational Amplifiers: Theory and Practice_](/resources/res-6-010-electronic-feedback-systems-spring-2013/textbook). John Wiley & Sons. 1975.  
+Roberge, James K. [_Operational Amplifiers: Theory and Practice_](/courses/res-6-010-electronic-feedback-systems-spring-2013/pages/textbook). John Wiley & Sons. 1975.  
 This book is available as a free electronic textbook from Prof. James Roberge and MIT OpenCourseWare.
 
-Readings from the textbook are listed in the [Readings]({{< baseurl >}}/pages/readings) section.
+Readings from the textbook are listed in the {{% resource_link d5d3f26f-f105-ab24-0099-a548839c32d7 "Readings" %}} section.
 
 Laboratory Sessions
 -------------------
 
-Students attend one of three [lab sessions]({{< baseurl >}}/pages/labs) each week. Each session meets for three hours. Each lab session concludes with a one-on-one check-off with one of the course teaching assistants. The lab grade is based upon the check-off (50%) and a written lab report (50%). Students will receive a grade of zero for missed lab session.
+Students attend one of three {{% resource_link d0e123bd-beb5-6b2c-de45-98c0aaf1f6d9 "lab sessions" %}} each week. Each session meets for three hours. Each lab session concludes with a one-on-one check-off with one of the course teaching assistants. The lab grade is based upon the check-off (50%) and a written lab report (50%). Students will receive a grade of zero for missed lab session.
 
 Assignments
 -----------
 
-Weekly [problem sets]({{< baseurl >}}/pages/assignments) are due each week in lecture. No late problem sets will be accepted except in extenuating circumstances. Students in the graduate version of the course (2.140) are assigned extra problems. Undergraduate students are welcome to work these, but no extra credit is given.
+Weekly {{% resource_link 533cedb7-f79a-8f05-3636-7f371a24a02c "problem sets" %}} are due each week in lecture. No late problem sets will be accepted except in extenuating circumstances. Students in the graduate version of the course (2.140) are assigned extra problems. Undergraduate students are welcome to work these, but no extra credit is given.
 
 Random Lecture Assignments
 --------------------------
@@ -58,7 +61,7 @@ Two closed-book quizzes will be given. There are no laboratory sessions during t
 Design Project
 --------------
 
-A final [design problem]({{< baseurl >}}/pages/design-project) will be assigned in the last two weeks of the course. This problem will allow you to apply the topics covered in the course to a realistic design problem. Students must work individually on this problem; only course staff can be consulted with questions.
+A final {{% resource_link 98593a12-d5fa-7ba8-30c7-0831dc32f0f0 "design problem" %}} will be assigned in the last two weeks of the course. This problem will allow you to apply the topics covered in the course to a realistic design problem. Students must work individually on this problem; only course staff can be consulted with questions.
 
 Grading
 -------
