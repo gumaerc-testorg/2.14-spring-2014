@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: The section contains the assignments for the course, and Prof. Trumper's
+  archive of problems and solutions.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: 533cedb7-f79a-8f05-3636-7f371a24a02c
 ---
@@ -27,7 +32,7 @@ DUE DATES
 {{< theadclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Problem Set 1 (PDF)]({{< baseurl >}}/resources/mit2_14s14_problem_set_1)
+{{% resource_link e8b5c14f-ab89-68aa-c01a-5c953462d447 "Problem Set 1 (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 Lecture 3
@@ -36,7 +41,7 @@ Lecture 3
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Problem Set 2 (PDF)]({{< baseurl >}}/resources/mit2_14s14_problem_set_2)
+{{% resource_link 8beca463-24c3-f542-61ff-91c51600a2b3 "Problem Set 2 (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 Lecture 5
@@ -45,7 +50,7 @@ Lecture 5
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Problem Set 3 (PDF)]({{< baseurl >}}/resources/mit2_14s14_problem_set_3)
+{{% resource_link bd8895ca-08c7-7983-6c78-ca6bad9b0f77 "Problem Set 3 (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 Lecture 7
@@ -54,7 +59,7 @@ Lecture 7
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Problem Set 4 (PDF)]({{< baseurl >}}/resources/mit2_14s14_problem_set_4)
+{{% resource_link f3197931-e9c3-8d08-fd51-57405353486a "Problem Set 4 (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 Lecture 9
@@ -63,7 +68,7 @@ Lecture 9
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Problem Set 5 (PDF)]({{< baseurl >}}/resources/mit2_14s14_problem_set_5)
+{{% resource_link 4f0b24e2-35ea-4286-c081-f996c9795749 "Problem Set 5 (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 Quiz 1
@@ -72,7 +77,7 @@ Quiz 1
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Problem Set 6 (PDF)]({{< baseurl >}}/resources/mit2_14s14_problem_set_6)
+{{% resource_link 1d30fd24-70e5-151d-b35a-89e068353b78 "Problem Set 6 (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 Lecture 12
@@ -81,7 +86,7 @@ Lecture 12
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Problem Set 7 (PDF)]({{< baseurl >}}/resources/mit2_14s14_problem_set_7)
+{{% resource_link 50f6cac8-5e3d-dfe7-36d4-2dae1640c691 "Problem Set 7 (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 Lecture 14
@@ -90,7 +95,7 @@ Lecture 14
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Problem Set 8 (PDF)]({{< baseurl >}}/resources/mit2_14s14_problem_set_8)
+{{% resource_link b967c083-7f35-8f6f-d132-bb6e53848f93 "Problem Set 8 (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 Lecture 16
@@ -99,7 +104,7 @@ Lecture 16
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Problem Set 9 (PDF)]({{< baseurl >}}/resources/mit2_14s14_problem_set_9)
+{{% resource_link 8cbc69f7-22c4-0657-7992-83c215c27c17 "Problem Set 9 (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 Lecture 18
@@ -108,7 +113,7 @@ Lecture 18
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Problem Set 10 (PDF)]({{< baseurl >}}/resources/mit2_14s14_problem_set_10)
+{{% resource_link 94b21193-9417-97f9-9fd2-d02f62084ce9 "Problem Set 10 (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 Lecture 19
@@ -117,7 +122,7 @@ Lecture 19
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Problem Set 11 (PDF)]({{< baseurl >}}/resources/mit2_14s14_problem_set_11)
+{{% resource_link 3105bfef-7d93-128f-2567-95463df536e3 "Problem Set 11 (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 Quiz 2
