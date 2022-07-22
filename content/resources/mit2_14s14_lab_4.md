@@ -5,6 +5,7 @@ file: /courses/2-14-analysis-and-design-of-feedback-control-systems-spring-2014/
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 2.14/2.140 Lab 4
 uid: b0be8a14-319d-e9b3-30e2-fc53a2301f35
 ---
 This resource contains information related to lab 4.
-
