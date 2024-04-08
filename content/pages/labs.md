@@ -9,7 +9,7 @@ title: Labs
 uid: d0e123bd-beb5-6b2c-de45-98c0aaf1f6d9
 ---
 
-The labs in this course use [LabVIEW System Design Software](http://www.ni.com/labview/).
+The labs in this course use {{% resource_link "1822c339-53e2-41f2-a3ff-395486fd8c5a" "LabVIEW System Design Software" %}}.
 
 {{< tableopen >}}
 {{< theadopen >}}
@@ -98,7 +98,7 @@ ADDITIONAL FILES
 
 {{% resource_link 1d064daa-f55c-9b0a-3177-17cbd64f74ff "Pencast with Circuit Analysis (PDF - 1.7MB)" %}}
 
-[A741 Spec Sheet (PDF)](http://www.ti.com/lit/ds/symlink/ua741.pdf)
+{{% resource_link "9383aeb0-320c-402d-9a1d-cee177ee3f71" "A741 Spec Sheet (PDF)" %}}
 
 
 {{< tdclose >}}
