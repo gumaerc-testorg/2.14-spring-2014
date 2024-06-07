@@ -72,7 +72,7 @@ Lec 6-7
 
 \[FPE\] Chapter 5: The Root-Locus Design Method.
 
-Rako, Paul. "{{% resource_link "a91001b0-c4ad-4d7b-9018-49f1cacfc71a" "The West Bend No. 1 Electric-frying-pan Thermostat" %}}." _EDN Network_. October 21, 2010. 
+Rako, Paul. "[The West Bend No. 1 Electric-frying-pan Thermostat](http://www.edn.com/design/analog/4363755/The-West-Bend-No-1-electric-frying-pan-thermostat)." _EDN Network_. October 21, 2010. 
 
 
 {{< tdclose >}}
@@ -173,7 +173,7 @@ Lec 20-23
 {{< tdopen >}}
 
 
-Weng, Ming-Chih, Xiaodong Lu, et al. "{{% resource_link "35815db8-c7e2-443c-ab0e-78801341b78d" "Vibration Control of Flexible Beams Using Sensor Averaging and Actuator Averaging Methods" %}}." _Control Systems Technology, IEEE Transactions_ 10, no. 4 (2002): 568–77. 
+Weng, Ming-Chih, Xiaodong Lu, et al. "[Vibration Control of Flexible Beams Using Sensor Averaging and Actuator Averaging Methods](http://dx.doi.org/10.1109/TCST.2002.1014676)." _Control Systems Technology, IEEE Transactions_ 10, no. 4 (2002): 568–77. 
 
 
 {{< tdclose >}}
