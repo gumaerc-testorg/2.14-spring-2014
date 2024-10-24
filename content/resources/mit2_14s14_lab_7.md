@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information related to lab 7.
-file: /courses/2-14-analysis-and-design-of-feedback-control-systems-spring-2014/cb5d152ae6aada0ab812ea1788069eee_MIT2_14S14_Lab_7.pdf
+file: /ol-ocw-studio-app/courses/2-14-analysis-and-design-of-feedback-control-systems-spring-2014/cb5d152ae6aada0ab812ea1788069eee_MIT2_14S14_Lab_7.pdf
 file_size: 144442
 file_type: application/pdf
 learning_resource_types:
