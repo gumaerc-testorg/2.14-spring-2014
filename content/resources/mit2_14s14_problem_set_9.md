@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information related to problem set 9.
-file: /courses/2-14-analysis-and-design-of-feedback-control-systems-spring-2014/8cbc69f722c40657799283c215c27c17_MIT2_14S14_Problem_Set_9.pdf
+file: /ol-ocw-studio-app/courses/2-14-analysis-and-design-of-feedback-control-systems-spring-2014/8cbc69f722c40657799283c215c27c17_MIT2_14S14_Problem_Set_9.pdf
 file_size: 244287
 file_type: application/pdf
 learning_resource_types:
