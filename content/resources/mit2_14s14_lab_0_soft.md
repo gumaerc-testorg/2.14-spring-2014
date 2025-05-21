@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information related to lab 3.
-file: /ol-ocw-studio-app/courses/2-14-analysis-and-design-of-feedback-control-systems-spring-2014/486d7cdeb92c595ae33a396dba4ea4cc_MIT2_14S14_Lab_0_Soft.pdf
+file: /courses/2-14-analysis-and-design-of-feedback-control-systems-spring-2014/486d7cdeb92c595ae33a396dba4ea4cc_MIT2_14S14_Lab_0_Soft.pdf
 file_size: 887494
 file_type: application/pdf
 learning_resource_types:
