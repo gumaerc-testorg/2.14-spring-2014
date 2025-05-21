@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/2-14-analysis-and-design-of-feedback-control-systems-spring-2014/b0a2b18c8b9d2305dc7fe2a3cb7af25d_Lab2-Thermal_Control.zip
+file: /courses/2-14-analysis-and-design-of-feedback-control-systems-spring-2014/b0a2b18c8b9d2305dc7fe2a3cb7af25d_Lab2-Thermal_Control.zip
 file_size: 1012682
 file_type: application/zip
 learning_resource_types:
